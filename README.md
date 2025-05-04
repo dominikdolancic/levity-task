@@ -1,2 +1,2 @@
 # levity-task
-Task for Levity using temporal and Open AI
+Task for Levity using Temporal and OpenAI
